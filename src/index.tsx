@@ -69,7 +69,7 @@ const GithubCorners = (props: TGitHubCornersProps) => {
   return (
     //@ts-expect-error
     <github-corners
-      target="__blank"
+      target='__blank'
       width={size}
       height={size}
       href={props.href}
@@ -84,4 +84,5 @@ const GithubCorners = (props: TGitHubCornersProps) => {
   );
 };
 
+export { GithubCorners };
 export default GithubCorners;

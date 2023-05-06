@@ -1,5 +1,7 @@
 'use strict';
 
+Object.defineProperty(exports, '__esModule', { value: true });
+
 /******************************************************************************
 Copyright (c) Microsoft Corporation.
 
@@ -2927,8 +2929,9 @@ var GithubCorners = function (props) {
     }
     return (
     //@ts-expect-error
-    react.exports.createElement("github-corners", __assign({ target: "__blank", width: size, height: size, href: props.href, position: fixed ? 'fixed' : 'absolute', "z-index": zIndex, style: style, fill: bgColor, color: color }, styl, otherProps)));
+    react.exports.createElement("github-corners", __assign({ target: '__blank', width: size, height: size, href: props.href, position: fixed ? 'fixed' : 'absolute', "z-index": zIndex, style: style, fill: bgColor, color: color }, styl, otherProps)));
 };
 
-module.exports = GithubCorners;
+exports.GithubCorners = GithubCorners;
+exports["default"] = GithubCorners;
 //# sourceMappingURL=index.js.map

@@ -38,4 +38,5 @@ interface TGitHubCornersProps extends React.AnchorHTMLAttributes<HTMLAnchorEleme
     zIndex?: number;
 }
 declare const GithubCorners: (props: TGitHubCornersProps) => JSX.Element;
+export { GithubCorners };
 export default GithubCorners;

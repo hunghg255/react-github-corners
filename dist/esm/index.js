@@ -2925,8 +2925,8 @@ var GithubCorners = function (props) {
     }
     return (
     //@ts-expect-error
-    react.exports.createElement("github-corners", __assign({ target: "__blank", width: size, height: size, href: props.href, position: fixed ? 'fixed' : 'absolute', "z-index": zIndex, style: style, fill: bgColor, color: color }, styl, otherProps)));
+    react.exports.createElement("github-corners", __assign({ target: '__blank', width: size, height: size, href: props.href, position: fixed ? 'fixed' : 'absolute', "z-index": zIndex, style: style, fill: bgColor, color: color }, styl, otherProps)));
 };
 
-export { GithubCorners as default };
+export { GithubCorners, GithubCorners as default };
 //# sourceMappingURL=index.js.map
