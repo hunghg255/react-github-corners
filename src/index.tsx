@@ -85,4 +85,3 @@ const GithubCorners = (props: TGitHubCornersProps) => {
 };
 
 export { GithubCorners };
-export default GithubCorners;

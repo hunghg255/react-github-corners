@@ -19,7 +19,12 @@ npm i react-gh-corners@latest
 # Use
 
 ```tsx
-import GithubCorners from 'react-gh-corners';
+import { GithubCorners } from 'react-gh-corners';
+
+// Nextjs only CSR
+const GithubCorners = dynamic(() => import('react-gh-corners').then((m) => m.GithubCorners), {
+  ssr: false,
+});
 
 
 const App = () => {
