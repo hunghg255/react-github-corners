@@ -1,9 +1,21 @@
-# React Github Corners
+<p align="center">
+<a href="https://www.npmjs.com/package/react-gh-corners" target="_blank" rel="noopener noreferrer">
+<img src="https://api.iconify.design/codicon:github-inverted.svg?color=%23cefdb4" alt="logo" width='100'/></a>
+</p>
 
+<p align="center">
+  A React component to add a GitHub corner to your project.
+</p>
 
-[![npm version](https://badge.fury.io/js/gh-corners.svg)](https://badge.fury.io/js/react-gh-corners) [![npm](https://img.shields.io/npm/dt/react-gh-corners.svg?logo=npm)](https://www.npmjs.com/package/react-gh-corners) [![npm](https://img.shields.io/bundlephobia/minzip/react-gh-corners)](https://www.npmjs.com/package/react-gh-corners)
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg)](#contributors-)
+<p align="center">
+  <a href="https://www.npmjs.com/package/react-gh-corners" target="_blank" rel="noopener noreferrer"><img src="https://badge.fury.io/js/csvs-parsers.svg" alt="NPM Version" /></a>
+  <a href="https://www.npmjs.com/package/react-gh-corners" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/npm/dt/csvs-parsers.svg?logo=npm" alt="NPM Downloads" /></a>
+  <a href="https://bundlephobia.com/result?p=react-gh-corners" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/bundlephobia/minzip/react-gh-corners" alt="Minizip" /></a>
+  <a href="https://github.com/hunghg255/react-gh-corners/graphs/contributors" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/all_contributors-1-orange.svg" alt="Contributors" /></a>
+  <a href="https://github.com/hunghg255/react-gh-corners/blob/main/LICENSE" target="_blank" rel="noopener noreferrer"><img src="https://badgen.net/github/license/hunghg255/react-gh-corners" alt="License" /></a>
+</p>
 
+## Live demo
 [Live Demo](https://github-corners.vercel.app/)
 
 ## Installation
